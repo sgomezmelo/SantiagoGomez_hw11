@@ -17,6 +17,8 @@ double dxdt(double v){
 }
 
 int main(){
+
+  /*Inicializacion */
   double x_0 = 10;
   double v_0 = 30;
   double h = 0.0001;
